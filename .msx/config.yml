@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Automated Professional Requirements Documentation for Freelancers
+slug: automated-professional-require
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: automated-professional-require.msx.dev
