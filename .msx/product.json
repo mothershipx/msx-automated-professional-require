@@ -1,0 +1,50 @@
+{
+  "id": "3295d34d-4873-45ed-bb93-091a3187782d",
+  "name": "Automated Professional Requirements Documentation for Freelancers",
+  "slug": "automated-professional-require",
+  "category": "ai",
+  "score": 90,
+  "description": "Freelancers and small businesses struggle with creating detailed, professional requirement documents, statements of work, and project specifications. This often leads to unclear deliverables, scope creep, and client disputes, with current documentation seen as a formal, time-consuming burden.",
+  "pain_points": [
+    "Struggle to create detailed professional documents",
+    "Unclear deliverables and scope creep",
+    "Client disputes due to poor documentation",
+    "Documentation is time-consuming and burdensome"
+  ],
+  "market_size": "$1.5B",
+  "tech_stack": [
+    "React (Frontend)",
+    "Python/FastAPI (Backend)",
+    "OpenAI GPT-4 / Anthropic Claude (AI Core)",
+    "PostgreSQL (Database)",
+    "AWS Lambda/ECS (Scalable Cloud Infrastructure)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "298",
+      "change": 82,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "92/100",
+      "change": 48,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "1+",
+      "change": 43,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-automated-professional-require/",
+  "repo_url": "https://github.com/mothershipx/msx-automated-professional-require",
+  "created_at": "2026-04-03T07:05:32.383Z",
+  "pipeline_version": "1.0.0"
+}
